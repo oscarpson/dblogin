@@ -1,0 +1,9 @@
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\bin\Debug\loginsample.exe.config
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\bin\Debug\loginsample.exe
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\bin\Debug\loginsample.pdb
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\obj\Debug\loginsample.csprojResolveAssemblyReference.cache
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\obj\Debug\loginsample.Form1.resources
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\obj\Debug\loginsample.Properties.Resources.resources
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\obj\Debug\loginsample.csproj.GenerateResource.Cache
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\obj\Debug\loginsample.exe
+C:\Users\kenyabusinessolution\Documents\Visual Studio 2012\Projects\loginsample\loginsample\obj\Debug\loginsample.pdb
